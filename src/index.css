@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.be-vietnam {
+  font-family: "Be Vietnam Pro", sans-serif;
+}
+
+h1 {
+ font-size: 48px;
+ opacity: 0.4;
+ font-weight: 600;
+}
+
+
+h3 {
+  font-size: 20px;
+}
+
+p {
+  font-size: 16px;
+}
